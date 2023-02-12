@@ -1,13 +1,2 @@
-# Sample Hardhat Project
+I have written a solidity smart contract in a hardhat framework with a unittest file in javascript in the test folder and the logic can be found in a logic.js file.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
